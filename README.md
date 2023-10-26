@@ -1,8 +1,7 @@
 ## Text To Speech Converter
 
-<p align="center">
-  Transform text into lifelike speech with our Text To Voice Converter!
-</p>
+Transform text into lifelike speech with our Text To Voice Converter!
+
 
 ![greeneye 360k](https://github.com/charith-codex/Text-To-Voice-Converter/assets/131009269/a1cb0520-2d43-49c8-bef2-e427cf3a24fb)
 ---
