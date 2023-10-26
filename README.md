@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://your-project-image-url.png" alt="Text To Voice Converter" width="200">
-</p>
-
-<h1 align="center">Text To Voice Converter</h1>
+h1 align="center">Text To Speech Converter</h1>
 
 <p align="center">
   Transform text into lifelike speech with our Text To Voice Converter!
