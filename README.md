@@ -15,6 +15,6 @@ Transform text into lifelike speech with our Text To Voice Converter!
 ---
 
 ## 🛠️ Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
